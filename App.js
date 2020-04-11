@@ -10,11 +10,11 @@ function App() {
       <TodoItem />
       <TodoItem />
       <h1>Contact Cards here</h1>
-      <ContactCard name = "First Kitten" imgUrl="/>
-      <ContactCard />
+      <ContactCard name = "First Kitten" imgUrl=""/>
+      <ContactCard /> 
       <ContactCard />
     </div> 
   );
 }
 
-export default App;
+export default App
