@@ -13,7 +13,7 @@ function App() {
       <ContactCard name = "First Kitten" imgUrl="/>
       <ContactCard />
       <ContactCard />
-    </div>
+    </div> 
   );
 }
 
